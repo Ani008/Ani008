@@ -1,7 +1,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="isAlive.png" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="isAlive.png" alt="Fallout GIF" style="width:600; height:auto"/>
 </a>
 
 
