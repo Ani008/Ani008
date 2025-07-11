@@ -1,7 +1,7 @@
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="isAlive.png" alt="Fallout GIF" style="width:600; height:auto"/>
+<a href="">
+  <img src="image1.png" alt="Fallout GIF" style="width:600; height:auto"/>
 </a>
 
 
@@ -9,7 +9,7 @@
 </h1>
 <h1 align="center">Namaste 🙏 I'm Aniket Chakke</h1>
 
-<h4 align="left">🌟## 💡 About Me
+<h4 align="left">🌟💡 About Me
 
 Builder. Debugger. Learner.  
 I love solving problems through code and crafting digital experiences that feel intuitive. Currently focused on full-stack development and growing every day.
@@ -108,3 +108,6 @@ I love solving problems through code and crafting digital experiences that feel 
   </div>
   <div align="center"> 
   </div>
+
+
+<img src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif" width="1000" alt="Welcome GIF" /></a>
