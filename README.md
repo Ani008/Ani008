@@ -1,7 +1,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="https://github.com/Ani008/Ani008/blob/main/my_intro.gif?raw=true" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 
@@ -14,6 +14,8 @@
 Builder. Debugger. Learner.  
 I love solving problems through code and crafting digital experiences that feel intuitive. Currently focused on full-stack development and growing every day.
 </h4>
+
+<img align="right" alt="coding-gif" width="450" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 
 <!-- about me -->
