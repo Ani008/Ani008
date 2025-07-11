@@ -56,9 +56,9 @@ I love solving problems through code and crafting digital experiences that feel 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,XML,Sqlite,git"/><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,sqlite,git"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,mongodb,expressjs,react,nodejs,vscode,vite,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=c,c++,python,mysql,postman,nextjs,dart,json" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,postman,nextjs,dart,json" /><br>
 </div>
 
 <br/>
