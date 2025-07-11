@@ -9,81 +9,35 @@
 </h1>
 <h1 align="center">Namaste 🙏 I'm Aniket Chakke</h1>
 
-<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies.</h4>
+<h4 align="left">🌟## 💡 About Me
 
-
- <div align="center">
-<!-- Profile Views -->
-<a href="https://github.com/JoshuaThadi" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
-
-<!-- Total Stars with GitHub Logo -->
-<a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
-  <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-<!-- Followers with GitHub Logo -->
-<a href="https://github.com/joshuathadi?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-</a>
-
-</div>
-
-    
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="450" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+Builder. Debugger. Learner.  
+I love solving problems through code and crafting digital experiences that feel intuitive. Currently focused on full-stack development and growing every day.
+</h4>
 
 
 <!-- about me -->
  <h3 align="left">💫 About Me</h3>
 
-
-
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
 <h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in Model-View-Controller.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
+ 🌱 I am currently working on and developing my programming skills.</br>
+ 🔭 I worked Android, Web and AI Technolgies to develop scalable softwares.</br>
+ 💬 I Love to build in Fintech and Space Technology.</br>
+ ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, App Development, Web Development.</br>
  ✨ I only like perfection.</h4> <div align="left"> 
 
 
   <h3>🧲 Connect me :</h3>
-<a href="mailto:thadijoshua@gmail.com">
+<a href="mailto:aniketchakke63@gmail.com">
   <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
   
-  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-chakke-43892a25b/" target="_blank">
     <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
-    
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
-    <img width="60px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?" alt="Portfolio Badge"></a>
-
-<a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
-  <img width="60px" src="https://cdn.jim-nielsen.com/watchos/512/spotify-music-and-podcasts-2020-03-19.png?rf=1024" alt="Spotify Badge"></a>
-
-<a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
-  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="YouTube Badge"></a>
-
-
   
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
 </div></h4>
 
 </div>
 <br/>
-
-<!--Experence and experencing
-<h3 align="center">🔆 Work'ed and Wor'king</h3>
-<div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
-</div>-->
-
-
 
 <!-- git stat-->
 <h3 align="center">🌱 Github Status</h3>
