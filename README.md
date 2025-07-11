@@ -43,11 +43,7 @@ I love solving problems through code and crafting digital experiences that feel 
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani008&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"> 
 </div>
 
 <br/><br/>
@@ -60,10 +56,9 @@ I love solving problems through code and crafting digital experiences that feel 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,XML,SQLite,Git"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mongodb,expressjs,reactjs,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=c,c++,python,mysql" /><br>
 </div>
 
 <br/>
