@@ -84,8 +84,7 @@ I love solving problems through code and crafting digital experiences that feel 
   <h3>💻 Tech Stack:</h3>
      <br/>
   <div align="center">
-### 🤖 Android Development Tech Stack
-
+    
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -93,39 +92,17 @@ I love solving problems through code and crafting digital experiences that feel 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
   </div>
   <div align="center"> 
   </div>
-
-
-
-<!--<h3>⭐ Top Contributed Repo!</h3>
-       <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-      <br/>-->
-
-
-
-
-<!-- support -->
-<h3 align="center">Support Me 💰 </h3>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
- <!-- <a href="https://buymeacoffee.com/joshuathadi">
-    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
-</p>
-
-
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>-->
-
-
-
-<!-- ending-->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-<p>⚠️ This README is uniquely designed by <strong>JoshuaThadi</strong>.
