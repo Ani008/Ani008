@@ -15,7 +15,7 @@ Builder. Debugger. Learner.
 I love solving problems through code and crafting digital experiences that feel intuitive. Currently focused on full-stack development and growing every day.
 </h4>
 
-<img align="right" alt="coding-gif" width="450" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="right" alt="coding-gif" width="300" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 
 <!-- about me -->
@@ -25,7 +25,6 @@ I love solving problems through code and crafting digital experiences that feel 
  🌱 I am currently working on and developing my programming skills.</br>
  🔭 I worked Android, Web and AI Technolgies to develop scalable softwares.</br>
  💬 I Love to build in Fintech and Space Technology.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, App Development, Web Development.</br>
  ✨ I only like perfection.</h4> <div align="left"> 
 
 
